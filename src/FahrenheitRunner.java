@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FahrenheitRunner {
+public class FahrenheitRunner extends Temperature {
 
   /**
    * The main method is to ask users input and convert it from Fahrenheit to Celsius.
